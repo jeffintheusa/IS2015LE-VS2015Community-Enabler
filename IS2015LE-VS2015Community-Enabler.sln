@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "IS2015LE-VS2015Community-Enabler", "IS2015LE-VS2015Community-Enabler.isproj", "{7AA2342A-647E-4B36-A159-05E5A6F5403B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		SingleImage|Default = SingleImage|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AA2342A-647E-4B36-A159-05E5A6F5403B}.SingleImage|Default.ActiveCfg = SingleImage
+		{7AA2342A-647E-4B36-A159-05E5A6F5403B}.SingleImage|Default.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

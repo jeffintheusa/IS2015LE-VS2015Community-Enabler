@@ -52,7 +52,7 @@
 	<summary>
 		<codepage>1252</codepage>
 		<title>Installation Database</title>
-		<subject/>
+		<subject></subject>
 		<author>InstallShield</author>
 		<keywords>Installer,MSI,Database</keywords>
 		<comments>Contact:  Your local administrator</comments>
@@ -2103,6 +2103,24 @@
 	<table name="ISDependency">
 		<col key="yes" def="S50">ISDependency</col>
 		<col def="I2">Exclude</col>
+		<row><td>MICROSOFT.VISUALSTUDIO.CODEMARKERS.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.COMPONENTMODELHOST.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.COREUTILITY.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.DIAGNOSTICS.ASSERT.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.DIAGNOSTICS.PERFORMANCEPROVIDER.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.GRAPHMODEL.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.IMAGECATALOG.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.IMAGING.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.SHELL.14.0.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.SHELL.IMMUTABLE.10.0.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.SHELL.IMMUTABLE.11.0.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.SHELL.IMMUTABLE.12.0.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.SHELL.IMMUTABLE.14.0.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.THREADING.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.UTILITIES.DLL</td><td>1</td></row>
+		<row><td>MICROSOFT.VISUALSTUDIO.VALIDATION.DLL</td><td>1</td></row>
+		<row><td>NEWTONSOFT.JSON</td><td>1</td></row>
+		<row><td>SYSTEM.THREADING.TASKS.DATAFLOW.DLL</td><td>1</td></row>
 	</table>
 
 	<table name="ISDisk1File">

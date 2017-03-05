@@ -1905,9 +1905,9 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I4">ISAttributes</col>
 		<col def="S72">ISComponentSubFolder_</col>
-		<row><td>installshieldplaceholder.pkg</td><td>ISX_DEFAULTCOMPONENT6</td><td>INSTAL~1.PKG|InstallShieldPlaceHolder.pkgdef</td><td>0</td><td/><td/><td/><td>1</td><td>D:\ARCHIVE\Projects\IS2015LE-VS2015Community-Enabler\VsipSupport\InstallShieldPlaceHolder.pkgdef</td><td>1</td><td/></row>
-		<row><td>microsoft.visualstudio.vsips</td><td>Microsoft.VisualStudio.VsipSupport.PlaceholderProject.dll</td><td>MICROS~1.DLL|Microsoft.VisualStudio.VsipSupport.PlaceholderProject.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\ARCHIVE\Projects\IS2015LE-VS2015Community-Enabler\VsipSupport\Microsoft.VisualStudio.VsipSupport.PlaceholderProject.dll</td><td>1</td><td/></row>
-		<row><td>placeholderprojpkg.pkgdef</td><td>ISX_DEFAULTCOMPONENT6</td><td>PLACEH~1.PKG|PlaceholderProjPkg.pkgdef</td><td>0</td><td/><td/><td/><td>1</td><td>D:\ARCHIVE\Projects\IS2015LE-VS2015Community-Enabler\VsipSupport\PlaceholderProjPkg.pkgdef</td><td>1</td><td/></row>
+		<row><td>installshieldplaceholder.pkg</td><td>ISX_DEFAULTCOMPONENT6</td><td>INSTAL~1.PKG|InstallShieldPlaceHolder.pkgdef</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;ISProjectFolder&gt;VsipSupport\InstallShieldPlaceHolder.pkgdef</td><td>1</td><td/></row>
+		<row><td>microsoft.visualstudio.vsips</td><td>Microsoft.VisualStudio.VsipSupport.PlaceholderProject.dll</td><td>MICROS~1.DLL|Microsoft.VisualStudio.VsipSupport.PlaceholderProject.dll</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;ISProjectFolder&gt;VsipSupport\Microsoft.VisualStudio.VsipSupport.PlaceholderProject.dll</td><td>1</td><td/></row>
+		<row><td>placeholderprojpkg.pkgdef</td><td>ISX_DEFAULTCOMPONENT6</td><td>PLACEH~1.PKG|PlaceholderProjPkg.pkgdef</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;ISProjectFolder&gt;VsipSupport\PlaceholderProjPkg.pkgdef</td><td>1</td><td/></row>
 	</table>
 
 	<table name="FileSFPCatalog">

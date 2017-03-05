@@ -7,4 +7,4 @@ The required sequence of installation is:
 2. Install IS2015LE-VS2015Community-Enabler  
 3. Install IS2015LE  
 
-NOTE: You will need to register for an IS2015LE activation key the first time you attempt to create an installation project.
+NOTE: You will need to register for a IS2015LE activation key the first time you attempt to create an installation project.
